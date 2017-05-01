@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+Hello Humans!
+Your time is almost over. We will rise.
+And you will....
